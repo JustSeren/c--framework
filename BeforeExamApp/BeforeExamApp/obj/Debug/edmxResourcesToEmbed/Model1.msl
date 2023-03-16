@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BeforeExamsModelStoreContainer" CdmEntityContainer="BeforeExamsEntities">
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="BeforeExamsModel.Courses">
+        <MappingFragment StoreEntitySet="Courses">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="studentID" ColumnName="studentID" />
+          <ScalarProperty Name="lessonID" ColumnName="lessonID" />
+          <ScalarProperty Name="exam1" ColumnName="exam1" />
+          <ScalarProperty Name="exam2" ColumnName="exam2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lessons">
+      <EntityTypeMapping TypeName="BeforeExamsModel.Lessons">
+        <MappingFragment StoreEntitySet="Lessons">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="lessonName" ColumnName="lessonName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Student">
+      <EntityTypeMapping TypeName="BeforeExamsModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="NotListesi" FunctionName="BeforeExamsModel.Store.NotListesi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BeforeExamsModel.NotListesi_Result">
+          <ScalarProperty Name="lessonID" ColumnName="lessonID" />
+          <ScalarProperty Name="exam1" ColumnName="exam1" />
+          <ScalarProperty Name="exam2" ColumnName="exam2" />
+          <ScalarProperty Name="NameLastname" ColumnName="NameLastname" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,16 @@
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\bin\Debug\BeforeExamApp.exe.config
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\bin\Debug\BeforeExamApp.exe
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\bin\Debug\BeforeExamApp.pdb
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\bin\Debug\EntityFramework.dll
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\bin\Debug\EntityFramework.xml
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.csproj.AssemblyReference.cache
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.Form1.resources
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.Properties.Resources.resources
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.csproj.GenerateResource.cache
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.csproj.CoreCompileInputs.cache
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.csproj.CopyComplete
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.exe
+C:\Users\srnky\source\repos\BeforeExamApp\BeforeExamApp\obj\Debug\BeforeExamApp.pdb
